@@ -150,7 +150,7 @@ nav a:hover {
 .imgsmall {
     max-width: 800px;
     margin: auto;
-    padding: 40px 0;
+    padding: 80px 0;
     display: grid;
     grid-gap: 20px;
   
