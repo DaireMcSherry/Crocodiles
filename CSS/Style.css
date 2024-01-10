@@ -1,7 +1,7 @@
 body {
     background: #f7f7f7;
     color: #333;
-    font-family: 'Fira Sans', sans-serif; }
+    font-family: 'Abhaya Libre,ExtraBold' }
 
 section, header {
     width: 80%;
@@ -9,7 +9,7 @@ section, header {
     margin: auto;}
 
 img {
-    display: inline-block;
+    display: block;
     padding: 0;
     max-width: 100%;
 }
