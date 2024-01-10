@@ -9,7 +9,7 @@ section, header {
     margin: auto;}
 
 img {
-    display: block;
+    display: inline-block;
     padding: 0;
     max-width: 100%;
 }
@@ -27,7 +27,7 @@ img {
 
 /*---- Styling typography ---*/
 h1, h2, blockquote {
-    color: #5df300; 
+    color: #B24704; 
     font-family: 'Merriweather', serif;
 }
 
