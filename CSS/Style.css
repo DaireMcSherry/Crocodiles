@@ -28,8 +28,8 @@ img {
 /*---- Styling typography ---*/
 h1, h2, blockquote {
     color: #B24704; 
-    font-family: 'Merriweather', serif;
-}
+    font-family: 'Abhaya Libre,ExtraBold' }
+
 
 p, blockquote {
     line-height: 1.5;
