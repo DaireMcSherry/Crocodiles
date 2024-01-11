@@ -11,7 +11,7 @@ section, header {
 img {
     display: block;
     padding: 0;
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .mainimg {
@@ -150,9 +150,13 @@ nav a:hover {
 .imgsmall {
     max-width: 800px;
     margin: auto;
-    padding: 80px 0;
+    padding: 50px 0;
     display: grid;
     grid-gap: 20px;
+
+.imgsmall {
+    
+}
   
   /*------------ TO CREATE A THREE COLUMN GRID REDUCE 375PX TO 250PX -----------*/  
   grid-template-columns: repeat(auto-fill, minmax(375px, 1fr)) ; 
