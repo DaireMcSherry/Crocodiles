@@ -119,9 +119,10 @@ a:hover {
     font-family: 'Merriweather', serif;
     padding-left: 32px; }
 
-nav {display: flex;
-    padding: 2rem 0;
-    font-size: 0.8rem;}
+nav { 
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;}
 
 nav ul {
         display: block;
