@@ -124,11 +124,13 @@ nav {display: flex;
     font-size: 0.8rem;}
 
 nav ul {
-        text-align: right;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        list-style-type: none; 
-        padding-right: 64px;
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
         }
 
 nav ul li {
